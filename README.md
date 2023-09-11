@@ -4,7 +4,7 @@ This repository contains a list of side projects I have worked on and plan to wo
 
 ## Docker
 
-- Docker tools
+- Docker tools (https://github.com/JBongars/docker-tools)
   - Current implementation is bulky and requires the user to clone the repository. Also building docker images is slow. Some additional features I want to work on:-
     - [ ] Fix annoying backgrounding issue.
       - When you press C+z to background a process in a docker container, it backgrounds the process on the host machine. Maybe there is a way to do this? If not, I already found a workaround by using tmux but it would be nice to have this feature.
