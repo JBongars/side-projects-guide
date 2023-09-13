@@ -23,7 +23,6 @@ This repository contains a list of side projects I have worked on and plan to wo
       - [ ] VSCode (maybe?)
     - [ ] As above, but might be a bit more difficult:-
       - [ ] Quake 2 (This game is open source so could be a good proof of concept for supporting other games)
-      - [ ] Diablo 2 (For personal use only as don't want to get sued by Blizzard)
   - Learn Kubernetes (the hard way) - https://github.com/kelseyhightower/kubernetes-the-hard-way
 
 ## IaC
