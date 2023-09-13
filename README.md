@@ -19,7 +19,6 @@ This repository contains a list of side projects I have worked on and plan to wo
       - [ ] Postman
       - [ ] Firefox
       - [ ] Transmission/Deluge
-      - [ ] TigerVNC
       - [ ] PgAdmin
       - [ ] VSCode (maybe?)
     - [ ] As above, but might be a bit more difficult:-
